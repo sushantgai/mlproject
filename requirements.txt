@@ -1,4 +1,6 @@
 numpy
 pandas
-
--e .
+python-dotenv
+pymysql
+mysql-connector-python
+#-e .
